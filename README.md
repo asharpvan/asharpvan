@@ -1,14 +1,14 @@
-### Hello there, its me Pranav - aka [asharpvan][https://asharpvan.firebaseapp.com/#/]! 👋
+### Hello there, its me Pranav - aka [asharpvan][website] 👋
 
 ## Coder | Husband | Learner | Survivor | Freak
 
 ### Connect with me:
 
-[<img align="left" alt="asharpvan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/asharpvan]!
-[<img align="left" alt="asharpvan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/asharpvan]!
-[<img align="left" alt="asharpvan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/pranav-sah-2407345b/]!
-[<img align="left" alt="asharpvan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/asharpvan/]!
-[<img align="left" alt="asharpvan | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][https://stackoverflow.com/users/5324042/ioser]!
+[<img align="left" alt="asharpvan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="asharpvan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="asharpvan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="asharpvan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="asharpvan | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -24,3 +24,9 @@
 
 
 
+[website]: https://asharpvan.firebaseapp.com/#/
+[twitter]: https://twitter.com/asharpvan
+[instagram]: https://www.instagram.com/asharpvan/
+[linkedin]: https://www.linkedin.com/in/pranav-sah-2407345b/
+[facebook]: https://www.facebook.com/asharpvan
+[stackoverflow]: https://stackoverflow.com/users/5324042/ioser
