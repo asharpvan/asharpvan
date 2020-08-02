@@ -15,12 +15,12 @@
 ### Languages and Tools:
 
 
-[<img align="left" alt="Swift 3.0+" width="26px" src="https://asharpvan.firebaseapp.com/static/img/swift.55dc029.png" />]
-[<img align="left" alt="Objective C" width="26px" src="https://asharpvan.firebaseapp.com/static/img/objectivec.8712de0.png" />]
-[<img align="left" alt="React Native" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />]
-[<img align="left" alt="Xcode" width="26px" src="https://miro.medium.com/max/256/1*YlPbvXeboiur4S5mB6xKkg.png" />]
-[<img align="left" alt="Webstorm" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/WebStorm_1282x.png" />]
+<img align="left" alt="Swift 3.0+" width="26px" src="https://asharpvan.firebaseapp.com/static/img/swift.55dc029.png" />
+<img align="left" alt="Objective C" width="26px" src="https://asharpvan.firebaseapp.com/static/img/objectivec.8712de0.png" />
+<img align="left" alt="React Native" width="26px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />
+<img align="left" alt="Xcode" width="26px" src="https://miro.medium.com/max/256/1*YlPbvXeboiur4S5mB6xKkg.png" />
+<img align="left" alt="Webstorm" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/WebStorm_1282x.png" />
 
 
 
