@@ -1,6 +1,6 @@
 ### Hello there, its me Pranav - aka [asharpvan][website] 👋
 
-## Coder | Husband | Learner | Survivor | Freak
+## Coder | Husband | Learner | Survivor | Nerd
 
 ### Connect with me:
 
